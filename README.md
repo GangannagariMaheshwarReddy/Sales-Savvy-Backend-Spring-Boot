@@ -40,7 +40,7 @@ SalesSavvy is a full-stack e-commerce web application built using **Spring Boot*
 ## 🏗️ Tech Stack
 
 **Frontend**
-- React.js  
+- React.js
 - Axios  
 - React Router  
 - CSS / Bootstrap / Tailwind (optional)
