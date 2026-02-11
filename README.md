@@ -1,4 +1,4 @@
-# 🛒 SalesSavvy — Full-Stack E-Commerce Platform Backend ! ! !
+# 🛒 SalesSavvy — Full-Stack E-Commerce Platform Backend !
 
 SalesSavvy is a full-stack e-commerce web application built using **Spring Boot**, **MySQL**, and **React.js**, providing a seamless shopping experience with role-based access for customers and admins. The platform includes secure authentication, dynamic product management, cart & order workflows, and a responsive, modern UI.
 
